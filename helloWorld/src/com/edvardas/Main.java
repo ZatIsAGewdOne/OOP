@@ -23,12 +23,6 @@ public class Main {
         return a + b;
     }
 
-    private static void printHello() {
-        for(int i = 0; i < 10; i++) {
-            System.out.println((i+1) + " Hello World!");
-        }
-    }
-
     private static double calcArea(double a) {
         return a * a;
     }
