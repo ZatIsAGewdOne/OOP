@@ -16,10 +16,21 @@ public class Main {
     }
 
     private static int calcSum(int a, int b) {
-        return a + b;
+        int sum = 0;
+        if ((a > 0) && (b > 0)) {
+            return sum = a + b;
+        } else {
+            System.out.println("One or both of your values are invalid");
+        }
+
+        return sum;
     }
 
     private static double calcSum(double a, double b) {
+        double sum = 0;
+        if((a < 0) && (b < 0)) {
+            System.out.println("One or both of your values are invalid");
+        }
         return a + b;
     }
 
