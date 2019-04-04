@@ -1,0 +1,2 @@
+Valid tire count: 3
+Total cost of valid tires: 579.49€

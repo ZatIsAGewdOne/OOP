@@ -1,0 +1,5 @@
+2.0 2.5 5.0 2.0 4.75 3.5 5.8 3.0 
+Average weight of all pumpkins is 3.81 kg.
+Viable pumpkins for sale is 3
+Average weight of all viable pumpkins is 3.75 kg.
+Viable pumpkin weights are: 4.75kg 3.5kg 3.0kg 

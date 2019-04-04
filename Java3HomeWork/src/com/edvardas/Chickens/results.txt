@@ -1,0 +1,6 @@
+Chicken 1 weighs 42 kilos and is the age of 5
+Chicken 2 weighs 47 kilos and is the age of 4
+Chicken 3 weighs 40 kilos and is the age of 5
+Chicken 4 weighs 32 kilos and is the age of 6
+Heaviest chicken is 2
+Oldest chicken is 4

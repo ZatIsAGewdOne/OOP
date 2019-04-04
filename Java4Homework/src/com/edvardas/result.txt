@@ -1,0 +1,11 @@
+1. 20.0€
+2. 15.0€
+3. 12.65€
+4. 3.0€
+5. 5.5€
+6. 0.0€
+7. 35.0€
+8. 40.0€
+
+The sum of the rent is 131.15€
+One person will pay the average of 16.39375€

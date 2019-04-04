@@ -1,0 +1,7 @@
+Student 1 did 11 challenges
+Student 2 did 12 challenges
+Student 3 did 7 challenges
+Student 4 did 9 challenges
+Student 5 did 7 challenges
+
+A total of 46 challenges were done.

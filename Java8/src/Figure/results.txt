@@ -1,0 +1,6 @@
+Square: Perimeter is 16, Area is 16
+Rectangle: Perimeter is 20, Area is 24
+Triangle: Perimeter is 14, Area is 3
+Greatest area is 24
+Greatest perimeter is 20
+Greatest length is 9

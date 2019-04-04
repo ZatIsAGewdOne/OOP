@@ -1,0 +1,10 @@
+3 is odd
+6 is even
+9 is odd
+12 is even
+15 is odd
+18 is even
+21 is odd
+24 is even
+27 is odd
+Average of this array is: 15.0

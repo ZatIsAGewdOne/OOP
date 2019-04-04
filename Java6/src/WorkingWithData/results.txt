@@ -1,0 +1,8 @@
+
+Name: Petras| Lastname: Petraitis| age: 28| profession: Vadybininkas
+Name: Jonas| Lastname: Jonaitis| age: 35| profession: Santechnikas
+Name: Stasys| Lastname: Kablys| age: 22| profession: Statybininkas
+Oldest is Jonas Jonaitis
+Amount of managers: 1
+Amount of plumbers: 1
+Amount of builders: 1
