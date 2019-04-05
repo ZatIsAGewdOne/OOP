@@ -1,0 +1,5 @@
+Oldest film = Paskutinis imperatorius
+Newest film = Avarija
+Film with longest name = Paskutinis imperatorius
+Longest running film = Šokis su vilkais
+Most viewed film = Avinėlių tylėjimas
